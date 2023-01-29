@@ -9,7 +9,8 @@
 5. cd sumo/tools
 6. python osmWebWizard.py
 7. select Area and Generate Scenario
-8.
+
+### python create net and route
 
 
 
@@ -30,14 +31,13 @@
 
 
 
-
-
+Macbook Tutorial:
 install stallation guide: https://www.youtube.com/watch?v=JAAPLxgQ5UQ
 
-net.xml: 
+net.xml: is the file "osm.net.xml.gz"
 
-route.xml:
+route.xml: is the file "osm.passenger.trips.xml"
 
 
-current problem: After clicking the change option, the software crashes
+current problem: the software sometime crashes
 
