@@ -10,3 +10,34 @@
 6. python osmWebWizard.py
 7. select Area and Generate Scenario
 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+install stallation guide: https://www.youtube.com/watch?v=JAAPLxgQ5UQ
+
+net.xml: 
+
+route.xml:
+
+
+current problem: After clicking the change option, the software crashes
+
